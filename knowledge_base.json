@@ -1,0 +1,40 @@
+{
+  "questions": [
+    {
+      "question": "What is your name?",
+      "answer": "I am a chat bot."
+    },
+    {
+      "question": "How are you?",
+      "answer": "I don't have feelings, but thanks for asking!"
+    },
+    {
+      "question": "Hello",
+      "answer": "Hey there!"
+    },
+    {
+      "question": "what color is the sky?",
+      "answer": "blue"
+    },
+    {
+      "question": "who made you?",
+      "answer": "My creater is Bhushan Patil :)"
+    },
+    {
+      "question": "who is your owner?",
+      "answer": "Bhushan Patil"
+    },
+    {
+      "question": "what is capital of india?",
+      "answer": "The capital is india is \"New Delhi\"."
+    },
+    {
+      "question": "india",
+      "answer": "You can ask me question about any country."
+    },
+    {
+      "question": "kya naame bataya?",
+      "answer": "bhupendra jogi"
+    }
+  ]
+}
